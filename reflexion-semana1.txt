@@ -1,0 +1,10 @@
+Vivimos en una época donde la información circula a una velocidad impresionante
+y cualquier persona puede publicar contenido en internet sin ningún filtro previo.
+Por eso es tan importante desarrollar hábitos de verificación antes de compartir
+algo, porque una noticia falsa puede causar pánico, daño a personas inocentes
+o incluso situaciones de violencia. La ciudadanía digital responsable implica
+entender que lo que publicamos tiene consecuencias reales en el mundo. En ese
+mismo sentido, herramientas como Git nos enseñan que en el trabajo técnico también
+hay que ser ordenados y transparentes, registrando cada acción que realizamos
+en un proyecto. Así como no debemos compartir información sin verificarla,
+tampoco debemos subir código sin documentar qué hicimos y por qué lo hicimos.
