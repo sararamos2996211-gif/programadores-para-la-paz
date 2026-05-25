@@ -1,0 +1,11 @@
+La terminal es una de las herramientas más poderosas que tiene un desarrollador
+porque le permite comunicarse directamente con el sistema operativo mediante comandos.
+A diferencia de los programas con interfaz gráfica, la terminal es mucho más rápida
+y eficiente para realizar tareas como crear carpetas, mover archivos o ejecutar scripts.
+Además, en el mundo del desarrollo de software la mayoría de servidores y entornos
+de trabajo profesional funcionan sin interfaz gráfica, por lo que saber usar la terminal
+es una habilidad indispensable para cualquier programador. Conocer comandos básicos
+como ls, mkdir, cd y touch permite organizar mejor los proyectos y trabajar de forma
+más autónoma sin depender de aplicaciones externas. En resumen, la terminal es la
+puerta de entrada al mundo real del desarrollo y aprenderla desde el principio
+marca una gran diferencia en la formación de cualquier programador.

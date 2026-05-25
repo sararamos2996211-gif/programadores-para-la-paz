@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+La terminal es una herramienta que permite ejecutar comandos directamente sobre el sistema operativo sin necesidad de usar el ratón ni interfaces gráficas.
+
+Pregunta 2:
+Respuesta: B
+El comando pwd significa Print Working Directory y muestra en qué carpeta del sistema nos encontramos ubicados en ese momento.
+
+Pregunta 3:
+Respuesta: C
+El comando ls lista todos los archivos y carpetas que existen dentro del directorio en el que estamos trabajando actualmente.
+
+Pregunta 4:
+Respuesta: B
+El comando mkdir significa Make Directory y se usa para crear carpetas nuevas desde la terminal sin necesidad de hacerlo manualmente.
